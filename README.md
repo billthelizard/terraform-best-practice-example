@@ -26,3 +26,4 @@ https://github.com/antonbabenko/terraform-best-practices
 1. `terraform init`
 1. `terraform plan`
 1. `terraform apply`
+1. `terraform destroy`
