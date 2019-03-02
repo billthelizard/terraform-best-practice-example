@@ -3,6 +3,10 @@
 This repository is a reference implementation of the best-practice terraform resource definition introduced by @antonbabenko:
 https://github.com/antonbabenko/terraform-best-practices
 
+## Infrastructure Created by this Example
+
+![infrastructure](https://github.com/billthelizard/terraform-best-practice-example/raw/image/image/terraform-best-practice-infra.png)
+
 ## Requirements
 
 * valid AWS account
