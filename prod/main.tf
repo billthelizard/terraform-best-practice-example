@@ -6,13 +6,13 @@ terraform {
     profile = "prod"
   }
 
-  required_version = ">= 0.11.11"
+  required_version = ">= 0.11.14"
 }
 
 provider aws {
   region  = "ap-northeast-1"
   profile = "prod"
-  version = ">= 2.0.0"
+  version = ">= 2.11.0"
 }
 
 module "netrowk" {
